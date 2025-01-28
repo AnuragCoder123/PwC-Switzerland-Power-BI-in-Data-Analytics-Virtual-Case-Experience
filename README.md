@@ -56,24 +56,35 @@ This project highlights the transformative power of data analytics and visualiza
 
 Total Calls Handled: 5,000
 Answered Calls: 81.08%
+
 Average Call Duration: 3.75 minutes
+
 Average Speed of Answer: 67.52 seconds
+
 Customer Satisfaction Score: 3.40 out of 5
+
 Identified patterns in call volumes, peak times, and response rates, enabling better workforce planning and improved customer satisfaction. Highlighted areas where call handling efficiency could be improved.
 
 2.Customer Retention:
 
 Total Customers Analyzed: 7,043
+
 Churn Rate: 26.54%
+
 Average Monthly Charges: $64.76
+
 Average Tenure: 32.37 months
+
 Revealed factors contributing to customer churn, including response delays and unresolved complaints. Suggested actionable strategies to increase retention rates, such as improving response times and personalized communication.
 
 3.Diversity & Inclusion:
 
 Total Employees Analyzed: 500
+
 Female Representation: 41.00%
+
 Leadership Roles Held by Women: 25.71%
+
 Evaluated employee demographics and diversity metrics to promote a more inclusive workplace. Delivered insights to guide the company's HR policies for fostering equity and representation.
 
 This project demonstrates the ability to turn raw data into actionable business insights, providing a foundation for strategic decision-making. By leveraging data visualization tools like Power BI, organizations can uncover trends, address challenges, and seize opportunities more effectively.
